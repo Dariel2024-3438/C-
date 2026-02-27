@@ -1,0 +1,15 @@
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\“juan_perez_tarea_2”\bin\Debug\net10.0\“juan_perez_tarea_2”.exe
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\“juan_perez_tarea_2”\bin\Debug\net10.0\“juan_perez_tarea_2”.deps.json
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\“juan_perez_tarea_2”\bin\Debug\net10.0\“juan_perez_tarea_2”.runtimeconfig.json
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\“juan_perez_tarea_2”\bin\Debug\net10.0\“juan_perez_tarea_2”.dll
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\“juan_perez_tarea_2”\bin\Debug\net10.0\“juan_perez_tarea_2”.pdb
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\“juan_perez_tarea_2”\obj\Debug\net10.0\“juan_perez_tarea_2”.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\“juan_perez_tarea_2”\obj\Debug\net10.0\“juan_perez_tarea_2”.AssemblyInfoInputs.cache
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\“juan_perez_tarea_2”\obj\Debug\net10.0\“juan_perez_tarea_2”.AssemblyInfo.cs
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\“juan_perez_tarea_2”\obj\Debug\net10.0\“juan_perez_tarea_2”.csproj.CoreCompileInputs.cache
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\“juan_perez_tarea_2”\obj\Debug\net10.0\“juan_perez_tarea_2”.sourcelink.json
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\“juan_perez_tarea_2”\obj\Debug\net10.0\“juan_perez_tarea_2”.dll
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\“juan_perez_tarea_2”\obj\Debug\net10.0\refint\“juan_perez_tarea_2”.dll
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\“juan_perez_tarea_2”\obj\Debug\net10.0\“juan_perez_tarea_2”.pdb
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\“juan_perez_tarea_2”\obj\Debug\net10.0\“juan_perez_tarea_2”.genruntimeconfig.cache
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\“juan_perez_tarea_2”\obj\Debug\net10.0\ref\“juan_perez_tarea_2”.dll
