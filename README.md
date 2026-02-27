@@ -15,7 +15,7 @@ Características
 Ejemplo de ejecución
 
 =====================================
-   PROGRAMA DE cALCULO DE PROMEDIOS
+   PROGRAMA DE CALCULO DE PROMEDIOS
 =====================================
 
 Ingrese la cantidad de estudiantes: 2
