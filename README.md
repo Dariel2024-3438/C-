@@ -10,7 +10,6 @@ Características
 - Permite ingresar varios estudiantes mediante un bucle.
 - Usa una clase **Estudiante** con propiedades (`get` y `set`).
 - Incluye métodos para calcular el promedio y el estatus.
-- Muestra una tabla con todas las calificaciones, el promedio y si aprobó o reprobó.
 
 Ejemplo de ejecución
 
